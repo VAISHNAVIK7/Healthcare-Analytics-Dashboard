@@ -1,6 +1,6 @@
 # 🏥Healthcare Analytics Dashboard
 ## Project Overview
-
+https://github.com/VAISHNAVIK7/Healthcare-Analytics-Dashboard/blob/main/Final%20Dashbord-Hospital%20ER.png?raw=true
 This project presents an interactive Hospital Emergency Room Dashboard built using Microsoft Excel.
 The dashboard helps analyze patient flow, wait times, admission status, patient satisfaction, demographics, and departmental referrals.
 ## Dashboard Features
